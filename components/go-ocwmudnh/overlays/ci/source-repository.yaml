@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: go-ocwmudnh-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/go-ocwmudnh
